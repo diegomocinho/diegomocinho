@@ -4,10 +4,10 @@
  <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
  <h2 align="center">Diego</h2>
   <div style="display: inline_block"><br>
-  <a href = "mailto:diramoci@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/diegomocinho" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> </a> 
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 
- 
 </div>
 
  
@@ -15,8 +15,9 @@
   <a href="https://github.com/diegomocinho">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diegomocinho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
   <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegomocinho&layout=compact&langs_count=2&theme=dracula"/>
+
 </div>
-  
+  <img align="center"src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>  
 
   <div style="display: inline_block"><br>
   <img align="center" alt="Diego-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
