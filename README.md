@@ -1,12 +1,21 @@
-## Olá eu sou a Diego Rafael Mocinho, entusiasta tecnologia!
 
-<div align="center">
-  <a href="https://github.com/diegomocinho">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diegomocinho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegomocinho&layout=compact&langs_count=2&theme=dracula"/>
-    
-   
+<p align="center">
+ <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
+ <h2 align="center">Diego</h2>
+  <div style="display: inline_block"><br>
+  <a href = "mailto:diramoci@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/diegomocinho" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> </a> 
+
+ 
 </div>
+
+ 
+<div style="display: inline_block"><br>
+  <a href="https://github.com/diegomocinho">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=diegomocinho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
+  <img height="149em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegomocinho&layout=compact&langs_count=2&theme=dracula"/>
+</div>
+  
 
   <div style="display: inline_block"><br>
   <img align="center" alt="Diego-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -19,9 +28,3 @@
   <img align="center" alt="Diego-NodeJS" height="40" width="40"  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 </div>
 
-  <div> 
-  <a href = "mailto:diramoci@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/diegomocinho" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> </a> 
-
- 
-</div>
